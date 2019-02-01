@@ -35,6 +35,10 @@
 # CMake
 cmake-build-*/
 
+# Large files
+.bin.gz
+.pickle
+
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
